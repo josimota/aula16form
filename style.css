@@ -1,0 +1,56 @@
+body{
+     background-color:rgb(250, 249, 249);
+     width: 2000px;
+     margin: 0%;
+}
+.cabecalho{
+    height: 200%;
+    margin: 0%;
+}
+h1{
+    background-color:rgb(21, 230, 202);
+    height: 20px;
+    font-size: 90%;
+    margin: 0;
+}
+h2{ background-color: rgb(30, 7, 242);
+    color: white;
+    height: 80px;
+    margin: 0;
+}
+h3{ margin-left: 38.4%;
+    margin-top: 10%;
+    font-size: 150%;
+  
+}
+.formulario{
+    margin-left: 40%;
+    position: absolute;
+  
+}
+fieldset{ 
+    width:200% ;
+}
+label , input, submit{ 
+    width: 80%;
+}  
+h4{
+    margin-left: 38.5%;
+    margin-top:9%;
+   
+}
+.cor{
+  color:rgb(90, 79, 238);
+}
+
+.footer{
+    background-color: rgb(30, 7, 242);
+    margin-top:15%;
+    height:100px;
+}
+h6{ font-size:150%;
+    margin-left: 40%;
+    color:white;
+   position:absolute;
+   margin-top:2%;
+}
